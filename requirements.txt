@@ -1,0 +1,11 @@
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+seaborn==0.13.2
+scikit-learn==1.4.2
+tensorflow==2.16.1
+qiskit==1.0.2
+qiskit-machine-learning==0.7.2
+qiskit-algorithms==0.3.0
+uproot==5.3.7
+scipy==1.13.0
