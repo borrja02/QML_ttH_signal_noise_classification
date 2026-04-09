@@ -1,0 +1,11 @@
+{
+    "accuracy": 0.7,
+    "precision": 0.6428571428571429,
+    "recall_positive": 0.9,
+    "recall_negative": 0.5,
+    "f1": 0.75,
+    "roc_auc": 0.7484,
+    "purity": 0.6428571428571429,
+    "significance": 5.378528742004772,
+    "training_time_sec": 19.95767092704773
+}

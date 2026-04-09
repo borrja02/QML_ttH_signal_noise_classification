@@ -1,0 +1,10 @@
+{
+    "pca_dim": 3,
+    "feature_map_type": "ZZ",
+    "ansatz_type": "EfficientSU2",
+    "reps_fm": 3,
+    "reps_ansatz": 2,
+    "entanglement": "full",
+    "max_iter": 120,
+    "feature_dimension": 3
+}

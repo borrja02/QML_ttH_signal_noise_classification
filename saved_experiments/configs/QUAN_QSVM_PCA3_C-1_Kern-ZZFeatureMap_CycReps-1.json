@@ -1,0 +1,7 @@
+{
+    "pca_dim": 3,
+    "kernel_name": "ZZFeatureMap",
+    "reps": 1,
+    "c_param": 1.0,
+    "feature_dimension": 3
+}

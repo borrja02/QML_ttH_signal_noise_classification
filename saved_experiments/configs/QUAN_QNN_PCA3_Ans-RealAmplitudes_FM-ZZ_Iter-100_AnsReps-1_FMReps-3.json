@@ -1,0 +1,9 @@
+{
+    "pca_dim": 3,
+    "feature_map_type": "ZZ",
+    "ansatz_type": "RealAmplitudes",
+    "reps_fm": 3,
+    "reps_ansatz": 1,
+    "max_iter": 100,
+    "feature_dimension": 3
+}
