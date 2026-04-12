@@ -12,7 +12,7 @@ To ensure full reproducibility, the repository includes a comprehensive set of p
 
 ## Project Structure
 
-* `Final_practice_QML_borja.ipynb`: The main research notebook containing the full pipeline, from data acquisition to final analytics.
+* `QML_ttH_signal_noise_classification.ipynb`: The main research notebook containing the full pipeline, from data acquisition to final analytics.
 * `saved_experiments/`: A directory containing the outputs of the experimental phase, including model weights and sensitivity analysis dataframes.
 * `requirements.txt`: Environment specifications to ensure compatibility across different local setups.
 
